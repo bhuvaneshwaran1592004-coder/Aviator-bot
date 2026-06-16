@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 Open `config.py`:
 ```python
-TELEGRAM_TOKEN = "YOUR_BOT_TOKEN_HERE"  # Replace with your token
+TELEGRAM_TOKEN = "8690680893:AAFlpBS8WmoNA8_gRnT_eqdg-uOcIuWiafk"  # Replace with your token
 ```
 
 ### Step 6: Run Bot
